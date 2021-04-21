@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49716871829",
+    "firebase_url": "https://ontopic-chat-app-default-rtdb.firebaseio.com",
+    "project_id": "ontopic-chat-app",
+    "storage_bucket": "ontopic-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49716871829:android:decec2f03fb43c3b3e919c",
+        "android_client_info": {
+          "package_name": "android.example.ontopic_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49716871829-rnvt38kl3rcgjukpfqchpl9q09ru7urb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPygjLU8iv2K-TKF97K5oC_Qz871FFb6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49716871829-rnvt38kl3rcgjukpfqchpl9q09ru7urb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
